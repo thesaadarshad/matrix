@@ -21,7 +21,7 @@ jobs:
           echo "🚀 Starting Matrix deployment..."
           
           # Navigate to matrix directory
-          cd /opt/my-webapps/matrix
+          cd /opt/my-webapps/matrix/web
           
           # Pull latest code
           echo "📥 Pulling latest code..."
